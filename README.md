@@ -1,4 +1,4 @@
-### Olá! eu sou o Rafa Cicaroli ✌️
+### Hey, pode me chamar de Rafa Cicaroli ✌️
 Perfil em construção...
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcicaroli/)
