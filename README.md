@@ -26,5 +26,3 @@ análise de dados e da programação.
 - [Infos sobre o projeto final de Engenharia de Dados](https://www.linkedin.com/feed/update/urn:li:activity:6895439217166573568/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6895439217166573568%29)<br/>
 - [Plano de desenvolvimento de carreira para Engenharia de Dados](https://www.linkedin.com/in/rafaelcicaroli/overlay/1635481816092/single-media-viewer/?type=LINK&profileId=ACoAAAXm0cYBnZRUPptXGyiO1G_bYoY0gEbdTsI)<br/>
 - [O que é, e qual a diferença entre data warehouse e o data lake?](https://www.linkedin.com/in/rafaelcicaroli/overlay/1635481828756/single-media-viewer/)<br/>
-
- ![Snake animation](https://github.com/rafaelcicaroli/rafaelcicaroli/blob/output/github-contribution-grid-snake.svg)
