@@ -5,7 +5,7 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/novoworkspace-wje9105/shared_invite/zt-132vmlkc3-kxHXZ2y977U2Fcjnpfv8Xw)
 
 
-## Tecnologias que eu utilizo
+### Tecnologias que eu utilizo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=w" />
