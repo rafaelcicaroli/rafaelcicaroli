@@ -16,7 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelcicaroli&repo=Praticando-Scraping&theme=radical)](https://github.com/rafaelcicaroli/Praticando-Scraping)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelcicaroli&repo=ETL-Ocorrencias-Aeronauticas&theme=radical)](https://github.com/rafaelcicaroli/ETL-Ocorrencias-Aeronauticas)<br>
 
-## Últimas postagens:
+## Últimos Artigos:
 
 - [Comece a usar o GitHub na prática](https://www.linkedin.com/pulse/github-para-iniciantes-na-pr%25C3%25A1tica-rafael-cicaroli)<br/>
 - [Infos sobre o projeto final de Engenharia de Dados](https://www.linkedin.com/feed/update/urn:li:activity:6895439217166573568/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6895439217166573568%29)<br/>
