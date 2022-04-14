@@ -1,6 +1,6 @@
 # _Olá, eu sou o_ **Rafael Cicaroli!** 
 
- _Sou Engenheiro de Dados_  |   _We can be heroes just for one day_ 
+ _Engenheiro de Dados_  |   _We can be heroes just for one day_ 
 
  <div style="text-align: center"> Vamos nos <b>conectar?</b>  </div>
 <div style="text-align: center"> 
