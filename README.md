@@ -23,5 +23,6 @@
 - [Plano de desenvolvimento de carreira para Engenharia de Dados](https://www.linkedin.com/in/rafaelcicaroli/overlay/1635481816092/single-media-viewer/?type=LINK&profileId=ACoAAAXm0cYBnZRUPptXGyiO1G_bYoY0gEbdTsI)<br/>
 - [O que é, e qual a diferença entre data warehouse e o data lake?](https://www.linkedin.com/in/rafaelcicaroli/overlay/1635481828756/single-media-viewer/)<br/>
 <br>
- 
+ ### Me mande um e-mail
+ <img src="sendtorafaelcicaroli.png" alt="drawing" width="2100"/><br>
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
