@@ -10,11 +10,12 @@
 <br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcicaroli/)<br></div>
 ##### _Em minha carreira eu transitei por lugares que me fizeram chegar até aqui, envolvendo gestão estratégica, desenvolvimento de treinamentos, modelagem de negócios, marketing, entre outras áreas. Sou apaixonado pelo efeito que o emprendedorismo e a tecnologia impacta a vida das pessoas._
 ##### _Para mim, a área de dados é o elo entre business e tecnologia. Extraindo valor da análise e interpretação dos dados, conseguimos uma vantagem sem igual no mercado. Um negócio que tem em seus pilares e direcionamento das decisões voltadas para os dados, tem todo o seu ecossitestema melhorado, impactando tudo ao seu redor, bem como a sociedade._<br><br>
-## **Skills** do meu dia-a-dia<br>
+## **Skills** do dia-a-dia<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)<br>
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 
-## Repositórios Recentes
+## Projetos Recentes (_under construction_)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelcicaroli&repo=Praticando-Scraping&theme=radical)](https://github.com/rafaelcicaroli/Praticando-Scraping)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelcicaroli&repo=ETL-Ocorrencias-Aeronauticas&theme=radical)](https://github.com/rafaelcicaroli/ETL-Ocorrencias-Aeronauticas)<br>
 
