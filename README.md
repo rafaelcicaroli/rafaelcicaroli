@@ -3,7 +3,6 @@
 # _Olá, eu sou o_ **Rafael Cicaroli!** <br>
 
  #### Engenheiro de Dados  |   _We can be heroes just for one day_ 
-
  <div style="text-align: center"> Vamos nos <b>conectar?</b>  </div>
 <div style="text-align: center"> 
 
@@ -31,3 +30,4 @@
  <img src="sendtorafaelcicaroli.png" alt="drawing" width="100"/><br>
  ___
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</br>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
