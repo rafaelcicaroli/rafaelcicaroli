@@ -1,6 +1,6 @@
 
 ![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=rafaelcicaroli&repo=rafaelcicaroli&label=VISITANTE&countColor=%232B5B84)
-# _Olá, eu sou o_ **Rafael Cicaroli!** <br>
+# _Olá, me chamo_ **Rafael Cicaroli!** <br>
 
  #### Engenheiro de Dados  |   _We can be heroes just for one day_ 
  <div style="text-align: center"> Vamos nos <b>conectar?</b>  </div>
